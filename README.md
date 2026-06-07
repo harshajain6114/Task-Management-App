@@ -1,4 +1,4 @@
-# ClarityOS — Task Management App
+# ClarityOS - Task Management App
 
 A full-stack MERN task management app with JWT auth, filters, pagination, and a clean dashboard UI.
 
